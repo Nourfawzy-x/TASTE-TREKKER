@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "id": "4",
+      "name": "Chicken Alfredo Pasta",
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Italian",
+      "caloriesPerServing": 250,
+      "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+      "rating": 4.9
+    },
+    {
+      "id": "6",
+      "name": "Quinoa Salad with Avocado",
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Mediterranean",
+      "caloriesPerServing": 250,
+      "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
+      "rating": 4.4
+    },
+    {
+      "id": "7",
+      "name": "Tomato Basil Bruschetta",
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 10,
+      "servings": 6,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 120,
+      "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+      "rating": 4.9
+    },
+    {
+      "id": "66d0",
+      "name": "burgerrrr",
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 300,
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "rating": 4.6
+    },
+    {
+      "id": "0d3c",
+      "name": "burgerrrr",
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 300,
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "rating": 4.6
+    },
+    {
+      "id": "271b",
+      "name": "burgerrrr",
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 300,
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "rating": 4.6
+    }
+  ]
+}
